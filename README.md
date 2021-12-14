@@ -2,7 +2,7 @@
 
 ---
 
-yeet me out of the window, befor I'll do it myself' :)
+yeet me out of the window, before I'll do it myself' :)
 
 # BookContents
 Public repo of the Learning C# with Unity 3D book contents
@@ -27,7 +27,8 @@ A lof of work went into comments like [these](https://github.com/CSharpWithUnity
             /*    ❺ is added to └❸┐ an operation is performed     */
             /*    │ evenNums      ↓ on each object in the array   */
             /*    │      */where (n % 2) == 0                     
-            /*    │               ↓ if this operation is true     */
+            /*    │               ↓ if this operation is true     */.git
+
             /*    │               ❹ the value is added to         */
             /*    │               ↓ the result of the statement   */
             /*    └─────←*/select n;
