@@ -2,7 +2,7 @@
 
 ---
 
-Make sure to personalize your welcome message with something unique!
+yeet me out of the window, befor I'll do it myself' :)
 
 # BookContents
 Public repo of the Learning C# with Unity 3D book contents
